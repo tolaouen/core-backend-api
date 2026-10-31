@@ -1,0 +1,17 @@
+fastapi[standard]
+uvicorn
+sqlalchemy
+pytest
+python-jose[cryptography]
+bcrypt
+pydantic-settings
+psycopg2-binary
+python-dotenv
+pydantic
+alembic
+python-multipart
+jinja2
+itsdangerous
+alembic
+Pillow
+boto3
